@@ -1,0 +1,25 @@
+Employees:
+- emailAddress: harry.berg@aicore.com
+  employeeCode: E1
+  firstName: Harry
+  jobTitle: Developer
+  lastName: Berg
+  phoneNumber: '123456'
+  region: CA
+  userId: person1
+- emailAddress: nihir.vedd@aicore.com
+  employeeCode: E2
+  firstName: Nihir
+  jobTitle: Developer
+  lastName: Vedd
+  phoneNumber: '1111111'
+  region: CA
+  userId: person2
+- emailAddress: joao.pereira@aicore.com
+  employeeCode: E3
+  firstName: Joao
+  jobTitle: Program Directory
+  lastName: Pereira
+  phoneNumber: '2222222'
+  region: CA
+  userId: person3
